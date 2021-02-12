@@ -2,7 +2,7 @@ body {
   background-color: cornflowerblue;
 }
 
-.h1 {
-  font-style: italic;
+.h5 {
+  font-style: inherit;
   font-weight: bolder;
 }
